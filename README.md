@@ -1,1 +1,1 @@
-# IBMPROJECT
+# ecommerce-app
